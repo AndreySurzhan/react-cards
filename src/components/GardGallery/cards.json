@@ -1,0 +1,58 @@
+[
+  {
+    "title": "card 1",
+    "contribution": {
+      "sum": 123321,
+      "items": []
+    },
+    "color": "#AFE6E5 ",
+    "isFooterShown": false,
+    "width": "49%"
+  },
+  {
+    "title": "card 2",
+    "contribution": {
+      "sum": null,
+      "items": [
+        {
+          "name": "cont 1",
+          "value": 123
+        },
+        {
+          "name": "cont 2",
+          "value": 321
+        }
+      ]
+    },
+    "color": "#AFE6BC",
+    "isFooterShown": true,
+    "width": "49%"
+  },
+  {
+    "title": "card 3",
+    "contribution": {
+      "sum": 332132,
+      "items": []
+    },
+    "color": "#AEAEAE ",
+    "isFooterShown": true
+  },
+  {
+    "title": "card 4",
+    "contribution": {
+      "sum": 123321,
+      "items": []
+    },
+    "color": "#D1D8A7",
+    "isFooterShown": true
+  },
+  {
+    "title": "card 5",
+    "contribution": {
+      "sum": 3321233,
+      "items": []
+    },
+    "color": "#C7BBE0 ",
+    "isFooterShown": true
+  }
+]

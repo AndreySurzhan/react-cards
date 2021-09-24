@@ -1,0 +1,34 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin: 0.1rem;
+    background-color: aqua;
+    flex-direction: column;
+    color: white;
+    min-width: 30%;
+}
+
+.card-title {
+    width: 100%;
+}
+
+.card-sum {
+    margin-bottom: 3rem;
+    font-size: 2rem;
+}
+
+.card-footer {
+    border-top: solid 1px white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0.5rem;
+}
+
+.card-footer > div {
+    width: 100%;
+    margin: 0.5rem;
+    align-self: center;
+    text-align: center;
+}
